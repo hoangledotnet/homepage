@@ -7,7 +7,7 @@
     <description>Scott Cohen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
       <title>Scott Cohen</title>
       <link>/authors/scott-cohen/</link>
     </image>
