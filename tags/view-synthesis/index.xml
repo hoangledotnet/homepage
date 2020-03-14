@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>View Synthesis | Hoang Le</title>
+    <link>/tags/view-synthesis/</link>
+      <atom:link href="/tags/view-synthesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>View Synthesis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
+      <title>View Synthesis</title>
+      <link>/tags/view-synthesis/</link>
+    </image>
+    
+    <item>
+      <title>Appearance Flow Completion for Novel View Synthesis</title>
+      <link>/project/2018-eccv-segmentation/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/2018-eccv-segmentation/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Novel view synthesis from sparse and unstructured input views faces challenges like the difficulty with dense 3D reconstruction and large occlusion. This paper addresses these problems by estimating proper appearance flows from the target to input views to warp and blend the input views. Our method first estimates a sparse set 3D scene points using an off-the-shelf 3D reconstruction method and calculates sparse flows from the target to input views. Our method then performs appearance flow completion to estimate the dense flows from the corresponding sparse ones. Specifically, we design a deep fully convolutional neural network that takes sparse flows and input views as input and outputs the dense flows. Furthermore, we estimate the optical flows between input views as references to guide the estimation of dense flows between the target view and input views. Besides the dense flows, our network also estimates the masks to blend multiple warped inputs to render the target view. Experiments on the KITTI benchmark show that our method can generate high quality novel views from sparse and unstructured input views.&lt;/p&gt;
+&lt;!-- - [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+
+Italics with _underscores_.
+
+Bold with **asterisks**.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Appearance Flow Completion for Novel View Synthesis</title>
+      <link>/project/2019-pg-view-synthesis/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/2019-pg-view-synthesis/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Novel view synthesis from sparse and unstructured input views faces challenges like the difficulty with dense 3D reconstruction and large occlusion. This paper addresses these problems by estimating proper appearance flows from the target to input views to warp and blend the input views. Our method first estimates a sparse set 3D scene points using an off-the-shelf 3D reconstruction method and calculates sparse flows from the target to input views. Our method then performs appearance flow completion to estimate the dense flows from the corresponding sparse ones. Specifically, we design a deep fully convolutional neural network that takes sparse flows and input views as input and outputs the dense flows. Furthermore, we estimate the optical flows between input views as references to guide the estimation of dense flows between the target view and input views. Besides the dense flows, our network also estimates the masks to blend multiple warped inputs to render the target view. Experiments on the KITTI benchmark show that our method can generate high quality novel views from sparse and unstructured input views.&lt;/p&gt;
+&lt;!-- - [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+
+Italics with _underscores_.
+
+Bold with **asterisks**.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

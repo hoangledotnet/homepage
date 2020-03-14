@@ -14,9 +14,9 @@
     
     <item>
       <title>Fast Optical Flow Estimation</title>
-      <link>/publication/2020eccv-fastflow/</link>
+      <link>/publication/2020-eccv-fastflow/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020eccv-fastflow/</guid>
+      <guid>/publication/2020-eccv-fastflow/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,9 +37,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Deep Homography Estimation For Dynamic Scenes</title>
-      <link>/publication/homography/</link>
+      <link>/publication/2020-cvpr-homography/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/homography/</guid>
+      <guid>/publication/2020-cvpr-homography/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -109,9 +109,9 @@ date: 2019-09-01
     
     <item>
       <title>Appearance Flow Completion for Novel View Synthesis</title>
-      <link>/publication/view-synthesis/</link>
+      <link>/publication/2019-pg-view-synthesis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/view-synthesis/</guid>
+      <guid>/publication/2019-pg-view-synthesis/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -132,9 +132,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Interactive Boundary Prediction for Object Selection</title>
-      <link>/publication/segmentation/</link>
+      <link>/publication/2018-eccv-segmentation/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/segmentation/</guid>
+      <guid>/publication/2018-eccv-segmentation/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -155,9 +155,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Content and Surface Aware Projection</title>
-      <link>/publication/gi2017/</link>
+      <link>/publication/2017-gi-projector-warp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/gi2017/</guid>
+      <guid>/publication/2017-gi-projector-warp/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -178,9 +178,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Detecting Good Surface for Improvisatory Visual Projection</title>
-      <link>/publication/ism2017/</link>
+      <link>/publication/2017-ism-projector-detect/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/ism2017/</guid>
+      <guid>/publication/2017-ism-projector-detect/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -201,9 +201,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Visual Quality Assessment for Projected Content</title>
-      <link>/publication/crv2017/</link>
+      <link>/publication/2017-crv-projector-quality/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/crv2017/</guid>
+      <guid>/publication/2017-crv-projector-quality/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -367,10 +367,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Fine-grained Tracker Selection</title>
-      <link>/publication/2015iccv-tracker/</link>
+      <title>Fine-grained Tracker Selection for Object Tracking</title>
+      <link>/publication/2015-iccv-tracker/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015iccv-tracker/</guid>
+      <guid>/publication/2015-iccv-tracker/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -391,9 +391,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Eye Blink Detection for Smart Glasses</title>
-      <link>/publication/ism2013/</link>
+      <link>/publication/2013-ism-eyeblink/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/ism2013/</guid>
+      <guid>/publication/2013-ism-eyeblink/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -414,9 +414,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Towards Long Term Large Scale Visual Health Monitoring Using Cyber Glasses</title>
-      <link>/publication/pervasive-health-2013/</link>
+      <link>/publication/2013-pervasivehealth-glasses/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/pervasive-health-2013/</guid>
+      <guid>/publication/2013-pervasivehealth-glasses/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -437,9 +437,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Detecting Rule of Simplicity from Photos</title>
-      <link>/publication/mm2012/</link>
+      <link>/publication/2012-mm-simplicity/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/mm2012/</guid>
+      <guid>/publication/2012-mm-simplicity/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -460,9 +460,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Rule of Thirds Detection from Photograph</title>
-      <link>/publication/ism2011/</link>
+      <link>/publication/2011-ism-rule-of-third/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/ism2011/</guid>
+      <guid>/publication/2011-ism-rule-of-third/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
